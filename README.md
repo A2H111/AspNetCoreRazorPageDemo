@@ -1,0 +1,1 @@
+This is a sample demo application on how to perform CRUD(CreateReadUpdateDelete) operation on Asp.Net Core RazorPages. Application will communicate with database and then perform the operations using Entity Framework
