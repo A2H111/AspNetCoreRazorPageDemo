@@ -1,0 +1,27 @@
+﻿@page "{id:int}"
+@model EditPageModel
+@{
+}
+<h2>Edit</h2>
+<form method="post">
+    <table class="table table-bordered" style="width:500px">
+        <tbody>
+            <tr>
+                <td>
+                    <input asp-for="Employee.EmployeeID" type="hidden" />
+                    <label for="txtEmpName">Employee Name :</label>
+                </td>
+                <td>
+                    <input id="txtEmpName" type="text" asp-for="Employee.EmployeeName" class="form-control" style="width:250px" />
+                </td>
+            </tr>
+            <tr>
+                <td><label for="txtEmpName">Employee Address :</label></td>
+                <td><input id="txtEmpAddress" type="text" style="width:250px" asp-for="Employee.EmployeeAddress" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input id="Button1" type="submit" value="Save" class="btn btn-primary" /> | <a asp-page="/Index" class="btn btn-primary">Back</a></td>
+            </tr>
+        </tbody>
+    </table>
+</form>

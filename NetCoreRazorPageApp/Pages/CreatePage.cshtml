@@ -1,0 +1,41 @@
+﻿@page
+@*Adding the reference of model class*@
+@using NetCoreRazorPageApp.Model
+@using Microsoft.EntityFrameworkCore;
+@{
+    ViewData["Title"] = "Home page";
+}
+@inject  NetCoreRazorPageApp.Model.EmployeeDbContext dbcontext
+
+@functions {
+	[BindProperty]
+	public NetCoreRazorPageApp.Model.Employee Employee { get; set; }
+
+	//Method to create employee record in database
+	public async Task<IActionResult> OnPostAsync()
+	{
+		if (!ModelState.IsValid)
+		{
+			return Page();
+		}
+		dbcontext.Employee.Add(Employee);
+		await dbcontext.SaveChangesAsync();
+		return RedirectToPage("/Index");
+	}
+
+}
+
+<form method="post">
+    <div>
+        <div>
+            <label for="txtEmpName">Employee Name :</label><input id="txtEmpName" type="text" asp-for="Employee.EmployeeName" class="form-control" style="width:250px"  />
+        </div>
+        <div>
+            <label for="txtEmpName">Employee Address :</label><input id="txtEmpAddress" type="text"  style="width:250px"  asp-for="Employee.EmployeeAddress" class="form-control" />
+        </div>
+        <div style="height:50px;"></div>
+        <div>
+            <input id="Button1" type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </div>
+</form>

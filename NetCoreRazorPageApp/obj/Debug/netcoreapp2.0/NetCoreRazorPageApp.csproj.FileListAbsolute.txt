@@ -1,0 +1,44 @@
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.csprojResolveAssemblyReference.cache
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.csproj.CoreCompileInputs.cache
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.AssemblyInfoInputs.cache
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.AssemblyInfo.cs
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.deps.json
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.runtimeconfig.json
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.runtimeconfig.dev.json
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.dll
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.pdb
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.dll
+C:\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.pdb
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.deps.json
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.runtimeconfig.json
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.runtimeconfig.dev.json
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.dll
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.pdb
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.csproj.CoreCompileInputs.cache
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.AssemblyInfoInputs.cache
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.AssemblyInfo.cs
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.dll
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.pdb
+C:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.csprojResolveAssemblyReference.cache
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.deps.json
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.runtimeconfig.json
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.runtimeconfig.dev.json
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.dll
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.pdb
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.csprojResolveAssemblyReference.cache
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.csproj.CoreCompileInputs.cache
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.AssemblyInfoInputs.cache
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.AssemblyInfo.cs
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.dll
+D:\My Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.pdb
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.deps.json
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.runtimeconfig.json
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.runtimeconfig.dev.json
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.dll
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\bin\Debug\netcoreapp2.0\NetCoreRazorPageApp.pdb
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.csprojResolveAssemblyReference.cache
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.csproj.CoreCompileInputs.cache
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.AssemblyInfoInputs.cache
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.AssemblyInfo.cs
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.dll
+D:\Learning\Blog\NetCoreRazorPageApp\NetCoreRazorPageApp\NetCoreRazorPageApp\obj\Debug\netcoreapp2.0\NetCoreRazorPageApp.pdb

@@ -1,0 +1,41 @@
+﻿@page "{id:int}"
+@model NetCoreRazorPageApp.Pages.Employee.DeletePageModel
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeletePage</title>
+</head>
+<body>
+    <h4>Delete Employee Record</h4>
+    <h5>Are you sure you want to delete this?</h5>
+    <table class="table table-bordered" style="width:250px">
+        <tbody>
+            <tr>
+                <td>
+                    <label for="txtEmpName">Employee Name :</label>
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.Employee.EmployeeName)
+                </td>
+            </tr>
+            <tr>
+                <td><label for="txtEmpName">Employee Address :</label></td>
+                <td>@Html.DisplayFor(model => model.Employee.EmployeeAddress)</td>
+            </tr>
+        </tbody>
+    </table>
+    <form method="post">
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <input asp-for="Employee.EmployeeID" type="hidden" />
+                    </td>
+                    <td colspan="2"><input id="Button1" type="submit" value="Delete" class="btn btn-primary" /> | <a asp-page="./Index" class="btn btn-primary">Cancel</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

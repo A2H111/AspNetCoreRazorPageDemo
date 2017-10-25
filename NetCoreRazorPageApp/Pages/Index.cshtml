@@ -1,0 +1,43 @@
+﻿@page
+@using NetCoreRazorPageApp.Model
+@using Microsoft.EntityFrameworkCore;
+@inject EmployeeDbContext dbcontext
+
+@functions {
+    public IEnumerable<NetCoreRazorPageApp.Model.Employee> Employees { get; set; }
+
+    public async Task OnGetAsync()
+    {
+		//Retreive 10 records from database
+        Employees = await dbcontext.Employee.Take(10).ToListAsync();
+    }
+}
+<form method="post">
+    <br /><br />
+    <a asp-page="/CreatePage" class="btn btn-primary">Create</a>
+    <br /><br />
+    Details
+    <table class="table table-sm table-bordered table-striped">
+        <thead class="green-gray lighten-4">
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Name</th>
+                <th>Employee Address</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Employees)
+            {
+                <tr>
+                    <td>@item.EmployeeID</td>
+                    <td>@item.EmployeeName</td>
+                    <td>@item.EmployeeAddress</td>
+                    <td><a asp-page="/EditPage" asp-route-id="@item.EmployeeID">Edit</a> | <a asp-page="/DeletePage" asp-route-id="@item.EmployeeID">Delete</a> </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+
+
